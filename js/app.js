@@ -1,18 +1,19 @@
 
-function aquamarine() {
+function mudarCor(cor) {
+
+  if(cor === 'aquamarine') {
     let container = document.getElementById('container')
     container.classList.remove('cor1');
     container.classList.add('cor2')
+
+  } else if(cor === 'padrao') {
+  let container = document.getElementById('container')
+  container.classList.remove('cor2');
+  container.classList.add('cor1')
   
 }
-
-function padrao() {
-    let container = document.getElementById('container')
-    container.classList.remove('cor2');
-    container.classList.add('cor1')
-
+  
 }
-
 
 function calcular(tipo, valor) {
   if(tipo === 'acao') {
