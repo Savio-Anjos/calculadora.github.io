@@ -4,9 +4,16 @@
 
  .cor1 {
     background-color: #1e3c7c;
+    height: 390px;
+    border-radius: 8px;
 }
  .cor2 {
-    background-color: aquamarine;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, aqua, aquamarine);
+  height: 390px;
+  border-radius: 8px;
+}
+
 }
 .container {
     border-radius: 7px;
