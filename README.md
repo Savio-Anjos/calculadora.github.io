@@ -1,6 +1,6 @@
 # Calculadora
 Essa é uma calculadora feita com HTML, CSS e JavaScript.
      
-#### Imagem 
+#### Imagem  
 
 ![Logo do Projeto](img/capa.png)
