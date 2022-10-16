@@ -1,4 +1,5 @@
 
+//Mudar cor da calculadora
 function mudarCor(cor) {
 
   if(cor === 'aquamarine') {
@@ -14,6 +15,8 @@ function mudarCor(cor) {
 }
   
 }
+
+//Calcular Valor
 
 function calcular(tipo, valor) {
   if(tipo === 'acao') {
