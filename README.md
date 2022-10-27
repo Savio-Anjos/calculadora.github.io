@@ -7,5 +7,6 @@ Essa é uma calculadora feita com HTML, CSS e JavaScript.
 </p>
      
 ### Imagem   
-
+<div>
 ![Logo do Projeto](img/capa.png)
+</div>
